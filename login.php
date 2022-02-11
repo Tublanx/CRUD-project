@@ -31,7 +31,7 @@ include('./db.php');
 
                 <div id="formFooter">
                     <a class="underlineHover" href="./sign.php">회원가입</a>
-                    <a class="underlineHover" href="#">비밀번호 찾기</a>
+                    <a class="underlineHover" href="./findpw.php">비밀번호 찾기</a>
                 </div>
             </div>
         </div>
